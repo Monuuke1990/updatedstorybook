@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-jarvis/static/css/main.e8047410.chunk.css",
+    "main.js": "/react-jarvis/static/js/main.eee92699.chunk.js",
+    "main.js.map": "/react-jarvis/static/js/main.eee92699.chunk.js.map",
+    "runtime~main.js": "/react-jarvis/static/js/runtime~main.1235de31.js",
+    "runtime~main.js.map": "/react-jarvis/static/js/runtime~main.1235de31.js.map",
+    "static/js/2.1bf3d72d.chunk.js": "/react-jarvis/static/js/2.1bf3d72d.chunk.js",
+    "static/js/2.1bf3d72d.chunk.js.map": "/react-jarvis/static/js/2.1bf3d72d.chunk.js.map",
+    "index.html": "/react-jarvis/index.html",
+    "precache-manifest.50b295ee946eca3e84b749e3c9961609.js": "/react-jarvis/precache-manifest.50b295ee946eca3e84b749e3c9961609.js",
+    "service-worker.js": "/react-jarvis/service-worker.js",
+    "static/css/main.e8047410.chunk.css.map": "/react-jarvis/static/css/main.e8047410.chunk.css.map",
+    "static/media/logo.svg": "/react-jarvis/static/media/logo.5d5d9eef.svg"
+  }
+}

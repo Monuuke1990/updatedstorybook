@@ -1,0 +1,45 @@
+.user-img-block {
+    height: 114px;
+    width: 114px;
+    background-repeat: no-repeat;
+    border: 1px solid #cacaca;
+    border-radius: 50%;
+    margin-left: 54px;
+          }
+.box-footer .row{
+    margin-bottom:10px;
+}
+.description-block{
+    text-align: left;
+}
+
+.tbl-value{
+   display: inline-block;
+    width: 58%;
+ vertical-align: top;
+}
+.ul-value{
+    margin: 0;
+    padding: 0;
+}
+.ul-value li{
+    list-style: none;
+    
+    padding: 18px;
+    background: #fff;
+}
+.ul-value li:hover {
+    box-shadow: 1px 1px 1px 1px #fff;
+    
+    transition: 0.3s ease-in-out;
+}
+.ul-value li{
+    margin-bottom: 34px;
+}
+.btn-action{
+ display: inline-block;
+    width: 40%;
+}
+.btn-action .btn-danger{
+    margin-left: 10px;
+}

@@ -1,0 +1,133 @@
+.skin-blue .wrapper,
+.skin-blue .main-sidebar,
+.skin-blue .left-side {
+  background-color: #fafafc;
+}
+.skin-blue .main-header .logo {
+  background-color: #fafafc;
+  color: #000;
+  text-align: left;
+  padding: 10px 0px 0px 30px;
+}
+.skin-blue .sidebar-menu > li.header {
+  color: #08080d;
+  opacity: 0.8;
+  font-size: 21px;
+  background: #fafafc;
+}
+.skin-blue .sidebar a {
+  color: #08080d;
+}
+.main-sidebar {
+  width: 350px;
+}
+.content-wrapper {
+  background-color: #fff;
+}
+.content-wrapper,
+.main-footer {
+  margin-left: 356px;
+}
+.main-header .navbar {
+  margin-left: 356px;
+}
+.main-header .logo {
+  width: 358px;
+}
+.skin-blue .main-header .navbar .sidebar-toggle {
+  color: #000;
+}
+.skin-blue .main-header .navbar {
+  background-color: #fff;
+}
+.skin-blue .sidebar-menu > li:hover > a,
+.skin-blue .sidebar-menu > li.active > a,
+.skin-blue .sidebar-menu > li.menu-open > a {
+  color: #000;
+  background: transparent;
+  border-bottom: 1px solid red;
+}
+.sidebar-menu {
+  margin-top: 140px;
+}
+.sidebar-menu > li > a {
+  padding: 0px 5px 0px 15px;
+}
+.jarvis_title {
+  font-size: 90px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.08;
+  letter-spacing: normal;
+  color: #08080d;
+}
+.Wrapper_dashboard .jarvis_subtitle {
+  margin-top: 50px;
+}
+.jarvis_subtitle {
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: #08080d;
+}
+.Wrapper_dashboard .desctitle {
+  margin-top: 100px;
+}
+.desctitle {
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #08080d;
+}
+.img_container img {
+  margin: -149px 0 0 -70px;
+}
+.Subcontainer .main-title {
+  margin: 0 0 20px 0;
+}
+.Subcontainer .jarvis_para {
+  margin: 0 0 40px 0;
+}
+.main-title {
+  font-size: 65px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.35;
+  letter-spacing: normal;
+  color: #08080d;
+}
+.sub-title {
+  font-size: 24px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #0066cc;
+}
+.jarvis_para {
+  font-size: 21px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.57;
+  letter-spacing: normal;
+  color: #08080d;
+}
+.Sooncontainer .main-title {
+  margin: 28%;
+  font-size: 50px;
+}
+.skin-blue .main-header .logo:hover {
+  background-color: transparent;
+}
+
+
